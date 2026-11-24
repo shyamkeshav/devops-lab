@@ -1,3 +1,7 @@
 line1
+<<<<<<< HEAD
 line2-from-main
+=======
+line2-from-feature-a
+>>>>>>> feature-a
 line3
