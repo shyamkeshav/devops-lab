@@ -1,3 +1,3 @@
 line1
-line2-from-feature-a
+line2-from-feature-b
 line3
